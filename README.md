@@ -1,8 +1,8 @@
-# I'm Rodrigo Antúnez
+# Rodrigo Antúnez
 
 ### 🇺🇾 🇪🇸 Economist & Data Analyst | 📈 Business Intelligence | 📍 Based in Barcelona
 
-> **Leveraging over 6 years of financial expertise** at global leaders like **Merck, BBVA, and NH Hotel Group**, I am now translating my business intuition into the **Data Analytics path**. I deconstruct intricate **data landscapes** into high-impact strategic clarity, applying **actionable business logic** through **SQL and Python** to drive **ROI** and **operational excellence**.
+**Leveraging over 8 years of financial expertise** at global leaders like **Merck, BBVA, and NH Hotel Group**, I am now translating my business intuition into the **Data Analytics path**. I deconstruct intricate **data landscapes** into high-impact strategic clarity, applying **actionable business logic** through **SQL and Python** to drive **ROI** and **operational excellence**.
 
 ---
 
@@ -34,15 +34,15 @@ Interactive dashboard designed for executive reporting, leveraging my background
 ---
 
 ### 🌍 Professional Background
-My career has taken me across different international markets, providing me with a global perspective on business operations:
-* **Barcelona 🇪🇸:** Advanced training in Data Analytics & Machine Learning.
-* **Amsterdam 🇳🇱:** Back Office & Auditing at **NH Hotel Group**.
-* **Montevideo 🇺🇾:** Finance & Accounting at **Merck**, **BBVA**, and **Despegar**.
+My career has been shaped by operating within diverse **international hubs**, providing me with a global perspective on business operations:
+* **Barcelona 🇪🇸:** Advancing my technical stack in **Data Analytics & Machine Learning** at ThePower.
+* **Amsterdam 🇳🇱:** Optimized **Back Office & Auditing** operations for **NH Hotel Group**.
+* **Montevideo 🇺🇾:** Managed **Finance & Accounting** for global leaders including **Merck**, **BBVA**, and **Despegar**.
 
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/antunez-rodrigo)
+* **LinkedIn:** [linkedin.com/in/antunez-rodrigo/]
 * **Email:** [rgo.antunez@gmail.com]
 
 ---
