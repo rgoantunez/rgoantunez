@@ -1,6 +1,6 @@
 # Rodrigo Antúnez 🇺🇾 🇪🇸
 
-### 📈 Economist & Data Analyst | Business Intelligence | 📍 Based in Barcelona
+### 📈 Economist & Data Analyst | Business Intelligence | 6+ Years Financial Expertise 
 
 **Leveraging over 6 years of financial expertise** at global leaders like **Merck, BBVA, and NH Hotel Group**, I am now translating my business intuition into the **Data Analytics path**. I deconstruct intricate **data landscapes** into high-impact strategic clarity, applying **actionable business logic** through **SQL and Python** to drive **ROI** and **operational excellence**.
 
