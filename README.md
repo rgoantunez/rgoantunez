@@ -1,6 +1,6 @@
-# Rodrigo Antúnez
+# Ec. Rodrigo Antúnez
 
-### Economist & Data Analyst | 📈 Business Intelligence | 🇺🇾 🇪🇸 Based in Barcelona
+### 📈 Data Analyst & Business Intelligence | 🇺🇾 🇪🇸 Based in Barcelona
 
 **Leveraging over 6 years of financial expertise** at global leaders like **Merck, BBVA, and NH Hotel Group**, I am now translating my business intuition into the **Data Analytics path**. I deconstruct intricate **data landscapes** into high-impact strategic clarity, applying **actionable business logic** through **SQL and Python** to drive **ROI** and **operational excellence**.
 
@@ -13,7 +13,7 @@
 | **Data Analysis** | SQL (PostgreSQL, MySQL), Python (Pandas, NumPy) |
 | **Visualization** | Excel (Power Query, Advanced Dashboards), Power BI |
 | **Finance & Ops** | Financial Reporting, Auditing, Back Office Operations |
-| **Environment** | DBeaver, VS Code, SAP, Oracle |
+| **Environment** | DBeaver, VS Code, SAP, Oracle, Google sheets |
 
 ---
 
