@@ -45,4 +45,4 @@ My career has been shaped by operating within diverse **international hubs**, pr
 * **LinkedIn:** [antunez-rodrigo](https://www.linkedin.com/in/antunez-rodrigo/)
 * **Email:** [rgo.antunez@gmail.com](mailto:rgo.antunez@gmail.com)
 ---
-*"Data without business context is just noise; I turn it into strategy."*
+*"Mastery lies not in collecting the dots, but in the wisdom to connect them."*
