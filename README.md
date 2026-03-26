@@ -10,10 +10,10 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Data Analysis** | SQL (PostgreSQL, MySQL), Python (Pandas, NumPy) |
+| **Data Analysis** | SQL (PostgreSQL, MySQL), Python (Pandas, NumPy, Matplotlib, Seaborn) |
 | **Visualization** | Excel (Power Query, Advanced Dashboards), Power BI |
-| **Finance & Ops** | Financial Reporting, Auditing, Back Office Operations |
-| **Environment** | DBeaver, VS Code, SAP, Oracle, Google sheets |
+| **Finance & Ops** | Financial Reporting, Auditing, Financial Close Process, Back Office Ops |
+| **Environment** | DBeaver, VS Code, SAP, Oracle, Google Workspace |
 
 ---
 
@@ -22,12 +22,12 @@
 #### 📽️ [Advanced SQL Queries - Videoclub Analysis](https://github.com/rgoantunez/Advanced_SQL_queries)
 In-depth analysis of a relational database (Sakila) to extract operational insights and customer behavior patterns.
 * *Key tech: CTEs, Dynamic Subqueries, Window Functions.*
+  
+#### 🐍 [Python EDA Projects](https://github.com/rgoantunez/python-eda)
+Hands-on exploratory data analysis projects showcasing data wrangling, visualization, and business-oriented insights.
+* *Key tech: Pandas, NumPy, Matplotlib, Seaborn, Data Storytelling.*
 
-#### 🐍 [Python Katas & Data Logic](https://github.com/rgoantunez/Python_Katas)
-A collection of Python scripts focused on algorithmic logic and data manipulation.
-* *Key tech: Data Structures, Logic Flow, Automation.*
-
-#### 📊 [Business Intelligence Dashboard - Excel](https://github.com/rgoantunez/Excel_Dashboard)
+#### 📊 [Business Intelligence Dashboard - Excel](https://github.com/rgoantunez/dashboard-fujifilm)
 Interactive dashboard designed for executive reporting, leveraging my background in financial auditing.
 * *Key tech: Pivot Tables, Data Modeling, UX/UI for Reporting.*
 
@@ -35,7 +35,7 @@ Interactive dashboard designed for executive reporting, leveraging my background
 
 ### 🌍 International Background
 My career has been shaped by operating within diverse **international hubs**, providing me with a global perspective on business operations:
-* **Barcelona 🇪🇸:** Advancing my technical stack in **Data Analytics & Machine Learning** at ThePower.
+* **Barcelona 🇪🇸:** Advancing my technical stack in **Data Analytics & Machine Learning** at ThePower Business School.
 * **Amsterdam 🇳🇱:** Optimized **Back Office & Auditing** operations for **NH Hotel Group**.
 * **Montevideo 🇺🇾:** Managed **Finance & Accounting** for global leaders including **Merck**, **BBVA**, and **Despegar**.
 
