@@ -12,7 +12,7 @@
 | :--- | :--- |
 | **Data Analysis** | SQL (PostgreSQL, MySQL), Python (Pandas, NumPy, Matplotlib, Seaborn) |
 | **Visualization** | Excel (Power Query, Advanced Dashboards), Power BI |
-| **Finance & Ops** | Financial Reporting, Auditing, Financial Close Process, Back Office Ops |
+| **Finance & Ops** | Financial Reporting, Auditing, Financial Close Process, Back Office Operations |
 | **Environment** | DBeaver, VS Code, SAP, Oracle, Google Workspace |
 
 ---
