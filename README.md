@@ -2,7 +2,7 @@
 
 ### 📈 Economist & Data Analyst | Business Intelligence | 6+ Years Financial Expertise 
 
-**Leveraging over 6 years of financial expertise** at global leaders like **Merck, BBVA, and NH Hotel Group**, I am now translating my business intuition into the **Data Analytics path**. I deconstruct intricate **data landscapes** into high-impact strategic clarity, applying **actionable business logic** through **SQL and Python** to drive **ROI** and **operational excellence**.
+**Leveraging over 6 years of financial expertise** at global leaders like **Merck, BBVA, and NH Hotel Group**, I am now translating my business knowledge into the **Data Analytics path**. I deconstruct intricate **data landscapes** into high-impact strategic clarity, applying **actionable business logic** through **SQL and Python** to drive **ROI** and **operational excellence**.
 
 ---
 
@@ -12,8 +12,8 @@
 | :--- | :--- |
 | **Data Analysis** | SQL (PostgreSQL, MySQL), Python (Pandas, NumPy, Matplotlib, Seaborn) |
 | **Visualization** | Excel (Power Query, Advanced Dashboards), Power BI |
-| **Finance & Ops** | Financial Reporting, Auditing, Financial Close Process, Back Office Operations |
-| **Environment** | DBeaver, VS Code, SAP, Oracle, Google Workspace |
+| **Finance & Ops** | Financial Reporting, Auditing, Accounting Close Process, Back Office Operations |
+| **Environment** | DBeaver, VS Code, SAP, Oracle, PostgreSQL, Google Workspace |
 
 ---
 
