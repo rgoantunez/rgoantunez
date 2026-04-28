@@ -11,7 +11,7 @@
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Data Analysis** | SQL (PostgreSQL, MySQL), Python (Pandas, NumPy, Matplotlib, Seaborn) |
-| **Visualization** | Excel (Power Query, Advanced Dashboards), Power BI |
+| **Visualization** | Excel (Power Query, Advanced Dashboards), Power BI (M, DAX) |
 | **Finance & Ops** | Financial Reporting, Auditing, Accounting Close Process, Back Office Operations |
 | **Environment** | DBeaver, VS Code, SAP, Oracle, PostgreSQL, Google Workspace |
 
@@ -19,15 +19,19 @@
 
 ### 🚀 Featured Projects
 
-#### 📽️ [Advanced SQL Queries - Videoclub Analysis](https://github.com/rgoantunez/Advanced_SQL_queries)
+#### 📦 [E-commerce Strategy & Logistics Dashboard - *Olist Brasil*](https://github.com/rgoantunez/ecommerce-eda)
+End-to-end analysis of the Brazilian Olist dataset, focusing on **Profitability** and **Logistics efficiency** to optimize operational ROI and customer satisfaction.
+* *Key tech: Python (Pandas), Power BI (Advanced DAX), Power Query, Geospatial Analysis (Shape Maps), ETL.*
+
+#### 🛢️ [Advanced SQL Queries - *Videoclub Store*](https://github.com/rgoantunez/Advanced_SQL_queries)
 In-depth analysis of a relational database (Sakila) to extract operational insights and customer behavior patterns.
 * *Key tech: CTEs, Dynamic Subqueries, Window Functions.*
   
-#### 🐍 [Python EDA Projects](https://github.com/rgoantunez/python-eda)
+#### 🐍 [Python EDA Project - *Portuguese Bank*](https://github.com/rgoantunez/python-eda)
 Hands-on exploratory data analysis projects showcasing data wrangling, visualization, and business-oriented insights.
 * *Key tech: Pandas, NumPy, Matplotlib, Seaborn, Data Storytelling.*
 
-#### 📊 [Business Intelligence Dashboard - Excel](https://github.com/rgoantunez/dashboard-fujifilm)
+#### 📊 [Business Intelligence Dashboard - *Fujifilm*](https://github.com/rgoantunez/dashboard-fujifilm)
 Interactive dashboard designed for executive reporting, leveraging my background in financial auditing.
 * *Key tech: Pivot Tables, Data Modeling, UX/UI for Reporting.*
 
